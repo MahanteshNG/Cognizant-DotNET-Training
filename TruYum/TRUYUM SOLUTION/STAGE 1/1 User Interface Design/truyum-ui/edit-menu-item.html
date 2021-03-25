@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>edit-menu-item</title>
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <script type="text/javascript">
+        function validation() {
+            var name = Document.getElementById("title").value;
+            var price = Document.getElementById("price").value;
+            if (name.length < 2 || name.length > 65) {
+                alert("Title should have 2 to 65 characters");
+            }
+            if (price == "" || price == null || !(price.match(/^[0-9$]+$/))) {
+                alert("Price is required. \nIt has to be a number.");
+                return false;
+            }
+
+        }
+
+    </script>
+</head>
+
+<body>
+
+    <header>
+        <div class="headercontainer">
+            <div class="col1">
+                <img class="logo" src="images/logo.jpg" width="200" height="50">
+            </div>
+            <div class="col2">
+                <nav>
+                    <a class="menuBtn" href="menu-item-list-admin.html" id="menu">Menu</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="editmainpart">
+        <h1>Edit Menu Item</h1>
+        <form name="myform" onsubmit="return validate()" action="edit-menu-item-status.html" target="_blank">
+            <table class="menu">
+                <tr class="boldlabel">
+                    <td id="t1"><label>Name</label></td>
+                </tr>
+                <tr>
+                    <td colspan="4"><input type="text" name="title" id="title" required>
+                    </td>
+                </tr>
+                <tr class="boldlabel">
+                    <td id="t1"><label>Price (Rs.)</label></td>
+                    <td id="t1"><label>Active</label></td>
+                    <td id="t1"><label>Date of Launch</label></td>
+                    <td id="t1"><label>Category</label></td>
+                </tr>
+                <tr class="allinputs">
+                    <td>
+                        <input class="allinputs" type="text" name="price" id="price" required>
+                    </td>
+
+                    <td>
+                        <input class="" class="radioBtn" type="radio" name="inStock" id="inStock" value="Yes" checked>Yes
+                        <input class="" class="radioBtn" type="radio" name="inStock" id="inStock" value="No">No
+                    </td>
+                    <td>
+                        <input class="allinputs" type="date" name="dateOfLaunch" id="dateOfLaunch" required title="Date of Launch is required">
+                    </td>
+                    <td>
+                        <select class="allinputs" id="category" name="category" title="Select one category">
+                            <option class="allinputs" id="category" value="Main Course">Main Course</option>
+                            <option class="allinputs" id="category" value="Starters">Starters</option>
+                            <option class="allinputs" id="category" value="Dessert">Dessert</option>
+                            <option class="allinputs" id="category" value="Drinks">Drinks</option>
+                        </select>
+                    </td>
+
+                </tr>
+                <tr class="boldlabel">
+                    <td id="t1">
+                        <input type="checkbox" id="freeDelivery" name="freeDelivery">Free Delivery
+                    </td>
+                </tr>
+                <tr>
+                    <td id="t1">
+                        <input type="submit" id="submit" name="submit" value="Save">
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+
+
+</body>
+<footer>
+    Copyright &#169 2020
+</footer>
+
+</html>
+<!---
+validations
+edit-menu-item-status.html 

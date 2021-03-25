@@ -1,0 +1,169 @@
+html {
+    height: 50%;
+}
+
+body {
+    margin: 0;
+}
+
+.headercontainer {
+    height: 55px;
+    background-color: #305496;
+
+}
+
+.col1 {
+    height: 55px;
+    width: 50%;
+    float: left;
+}
+
+.col2 {
+    height: 55px;
+    width: 50%;
+    float: right;
+}
+
+nav {
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 55px;
+    text-align: right;
+}
+
+.logo {
+    padding: 2.5px 0px 2.5px 0px;
+}
+
+.menuBtn {
+    font-size: 40px;
+    color: white;
+
+}
+
+.mainpart {
+
+    width: 75%;
+    height: 100%;
+    margin: auto;
+    margin-top: 170px;
+}
+
+.mainpart h1 {
+    text-align: left;
+    font-size: 4em;
+}
+
+.mainpart h2 {
+    color: limegreen;
+
+    font-size: 2.5em;
+}
+
+.mainpart h3 {
+    color: gray;
+    font-size: 2em;
+}
+
+#menuitemlist {
+    color: blue;
+}
+
+.menu {
+    width: 100%;
+    line-height: 1.5;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+#t1 {
+    text-align: left;
+}
+
+#t2 {
+    text-align: right;
+}
+
+#t11 {
+    text-align: left;
+    width: 25%;
+}
+
+#t2 {
+    text-align: right;
+}
+
+#t21 {
+    text-align: left;
+    width: 25%;
+    padding-right: 500px;
+}
+
+
+
+#submit {
+    background-color: darkblue;
+    color: white;
+    font-size: 25px;
+}
+.editmainpart {
+
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 170px;
+}
+
+.editmainpart h1 {
+    font-size: 2.5em;
+}
+
+.boldlabel td{
+    font-weight: bold;
+    width: 25%;
+}
+
+#title {
+    width: 950px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    height: 30px;
+    font-size: 21px;
+}
+.allinputs{
+    width: 25%;
+    margin: 0;
+    text-align: left;
+}
+#price,#dateOfLaunch,#category{
+    width: 180px;
+    height: 30px;
+    padding: 0;
+    margin: auto;
+    font-size: 21px;
+}
+
+#total {
+    font-weight: bold;
+    text-align: left;
+
+}
+
+#totalrs {
+    font-weight: bold;
+    text-align: left;
+
+}
+
+footer {
+    font-size: 2em;
+    width: 100%;
+    height: 8%;
+    position: fixed;
+    background: #dbdbdb;
+    bottom: 0;
+}
