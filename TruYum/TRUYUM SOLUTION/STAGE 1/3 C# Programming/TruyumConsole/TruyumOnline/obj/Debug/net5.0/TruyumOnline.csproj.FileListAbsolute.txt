@@ -1,0 +1,12 @@
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\bin\Debug\net5.0\TruyumOnline.deps.json
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\bin\Debug\net5.0\TruyumOnline.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\bin\Debug\net5.0\ref\TruyumOnline.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\bin\Debug\net5.0\TruyumOnline.pdb
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.csprojAssemblyReference.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.AssemblyInfoInputs.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.AssemblyInfo.cs
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.csproj.CoreCompileInputs.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\ref\TruyumOnline.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\TruyumOnline\obj\Debug\net5.0\TruyumOnline.pdb

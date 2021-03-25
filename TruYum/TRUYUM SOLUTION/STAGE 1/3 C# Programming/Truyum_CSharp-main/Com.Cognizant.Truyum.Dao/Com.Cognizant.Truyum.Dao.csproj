@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dotNetTips.Utility.Standard.Extensions" Version="2021.1.26.1" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model.csproj" />
+    <ProjectReference Include="..\Com.Cognizant.Truyum.Utility\Com.Cognizant.Truyum.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

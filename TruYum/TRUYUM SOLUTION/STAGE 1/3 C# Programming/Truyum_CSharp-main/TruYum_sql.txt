@@ -1,0 +1,32 @@
+CREATE TABLE [dbo].[Cart] (
+    [Id]         INT    IDENTITY (1, 1) NOT NULL,
+    [MenuItemId] BIGINT NOT NULL,
+    [Quantity]   INT    NOT NULL,
+    [UserId]     INT    NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Cart_MenuItem] FOREIGN KEY ([MenuItemId]) REFERENCES [dbo].[MenuItem] ([id]),
+    CONSTRAINT [FK_Cart_Users] FOREIGN KEY ([UserId]) REFERENCES [dbo].[Users] ([Id])
+);
+
+-------------------------------------------------------------------
+CREATE TABLE [dbo].[MenuItem] (
+    [id]           BIGINT         IDENTITY (1, 1) NOT NULL,
+    [name]         VARCHAR (50)   NOT NULL,
+    [price]        DECIMAL (5, 2) DEFAULT ((0)) NOT NULL,
+    [active]       BIT            DEFAULT ((1)) NOT NULL,
+    [dateofLaunch] DATETIME       NULL,
+    [category]     VARCHAR (30)   NOT NULL,
+    [freeDelivery] BIT            DEFAULT ((1)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([id] ASC)
+);
+
+-----------------------------------------------------------------------
+CREATE TABLE [dbo].[Users] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [Username] VARCHAR (20)  NOT NULL,
+    [Password] VARCHAR (100) NOT NULL,
+    [Name]     VARCHAR (50)  NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [CK_Users_Username] UNIQUE NONCLUSTERED ([Username] ASC)
+);
+

@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v1.5": {
+      "Com.Cognizant.Truyum.Model/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Com.Cognizant.Truyum.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Com.Cognizant.Truyum.Model.dll": {}
+        }
+      },
+      "Com.Cognizant.Truyum.Utility/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Com.Cognizant.Truyum.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Com.Cognizant.Truyum.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Com.Cognizant.Truyum.Model/1.0.0": {
+      "type": "project",
+      "path": "../Com.Cognizant.Truyum.Model/Com.Cognizant.Truyum.Model.csproj",
+      "msbuildProject": "../Com.Cognizant.Truyum.Model/Com.Cognizant.Truyum.Model.csproj"
+    },
+    "Com.Cognizant.Truyum.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Com.Cognizant.Truyum.Utility/Com.Cognizant.Truyum.Utility.csproj",
+      "msbuildProject": "../Com.Cognizant.Truyum.Utility/Com.Cognizant.Truyum.Utility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v1.5": [
+      "Com.Cognizant.Truyum.Model >= 1.0.0",
+      "Com.Cognizant.Truyum.Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+      "projectName": "Com.Cognizant.Truyum.Dao",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Dao\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard1.5"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard1.5": {
+          "targetAlias": "netstandard1.5",
+          "projectReferences": {
+            "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Model\\Com.Cognizant.Truyum.Model.csproj"
+            },
+            "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj": {
+              "projectPath": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Utility\\Com.Cognizant.Truyum.Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard1.5": {
+        "targetAlias": "netstandard1.5",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Com.Cognizant.Truyum.Model is not compatible with netstandard1.5 (.NETStandard,Version=v1.5). Project Com.Cognizant.Truyum.Model supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Com.Cognizant.Truyum.Model",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.5"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Com.Cognizant.Truyum.Utility is not compatible with netstandard1.5 (.NETStandard,Version=v1.5). Project Com.Cognizant.Truyum.Utility supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Com.Cognizant.Truyum.Utility",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.5"
+      ]
+    }
+  ]
+}

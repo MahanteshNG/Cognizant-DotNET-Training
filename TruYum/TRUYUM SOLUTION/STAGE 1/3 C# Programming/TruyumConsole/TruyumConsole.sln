@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruyumConsole", "TruyumConsole\TruyumConsole.csproj", "{53E18AB9-ECC8-40B8-B3B8-44E02AFE0B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruyumOnline", "TruyumOnline\TruyumOnline.csproj", "{6C49A4BF-2391-4D4C-B472-B389F67D86C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Model", "Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model.csproj", "{A36B7296-B71E-4F11-864E-BA7297B729ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Utility", "Com.Cognizant.Truyum.Utility\Com.Cognizant.Truyum.Utility.csproj", "{89F09142-720B-4D18-9857-FB037407A189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Cognizant.Truyum.Dao", "Com.Cognizant.Truyum.Dao\Com.Cognizant.Truyum.Dao.csproj", "{7D099CF1-A49B-4382-9EE2-066D60F7ADB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E18AB9-ECC8-40B8-B3B8-44E02AFE0B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E18AB9-ECC8-40B8-B3B8-44E02AFE0B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E18AB9-ECC8-40B8-B3B8-44E02AFE0B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E18AB9-ECC8-40B8-B3B8-44E02AFE0B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C49A4BF-2391-4D4C-B472-B389F67D86C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C49A4BF-2391-4D4C-B472-B389F67D86C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C49A4BF-2391-4D4C-B472-B389F67D86C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C49A4BF-2391-4D4C-B472-B389F67D86C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36B7296-B71E-4F11-864E-BA7297B729ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36B7296-B71E-4F11-864E-BA7297B729ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36B7296-B71E-4F11-864E-BA7297B729ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36B7296-B71E-4F11-864E-BA7297B729ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F09142-720B-4D18-9857-FB037407A189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F09142-720B-4D18-9857-FB037407A189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F09142-720B-4D18-9857-FB037407A189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F09142-720B-4D18-9857-FB037407A189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D099CF1-A49B-4382-9EE2-066D60F7ADB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D099CF1-A49B-4382-9EE2-066D60F7ADB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D099CF1-A49B-4382-9EE2-066D60F7ADB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D099CF1-A49B-4382-9EE2-066D60F7ADB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31A8D7EC-719F-4A52-9FEA-3284336FCEE1}
+	EndGlobalSection
+EndGlobal

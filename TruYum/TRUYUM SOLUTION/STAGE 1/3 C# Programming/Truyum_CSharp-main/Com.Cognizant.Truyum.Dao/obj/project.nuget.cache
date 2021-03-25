@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "6yeNcXShjCQhhoQU8pMggWCeo2A8TtPkBC9j0pKUpWlgmWTe8F/C/e7fKDfmHbyunK/JL8pyNqjlYliYRufxXg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Truyum.net\\Com.Cognizant.Truyum.Dao\\Com.Cognizant.Truyum.Dao.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Com.Cognizant.Truyum.Model is not compatible with netstandard1.5 (.NETStandard,Version=v1.5). Project Com.Cognizant.Truyum.Model supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Com.Cognizant.Truyum.Model",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.5"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Com.Cognizant.Truyum.Utility is not compatible with netstandard1.5 (.NETStandard,Version=v1.5). Project Com.Cognizant.Truyum.Utility supports: netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Com.Cognizant.Truyum.Utility",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.5"
+      ]
+    }
+  ]
+}

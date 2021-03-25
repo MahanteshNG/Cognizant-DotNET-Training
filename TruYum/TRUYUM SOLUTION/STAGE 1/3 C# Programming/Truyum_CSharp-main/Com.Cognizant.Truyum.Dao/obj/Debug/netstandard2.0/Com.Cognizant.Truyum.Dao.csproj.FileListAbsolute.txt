@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\Truyum.net\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Model.dll
+C:\Users\DELL\source\repos\Truyum.net\Com.Cognizant.Truyum.Dao\bin\Debug\netstandard2.0\Com.Cognizant.Truyum.Utility.dll
+C:\Users\DELL\source\repos\Truyum.net\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Truyum.net\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Truyum.net\Com.Cognizant.Truyum.Dao\obj\Debug\netstandard2.0\Com.Cognizant.Truyum.Dao.AssemblyInfo.cs

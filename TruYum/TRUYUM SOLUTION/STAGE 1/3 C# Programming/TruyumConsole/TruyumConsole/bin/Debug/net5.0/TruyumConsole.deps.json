@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TruyumConsole/1.0.0": {
+        "dependencies": {
+          "TruyumOnline": "1.0.0"
+        },
+        "runtime": {
+          "TruyumConsole.dll": {}
+        }
+      },
+      "TruyumOnline/1.0.0": {
+        "runtime": {
+          "TruyumOnline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TruyumConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TruyumOnline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

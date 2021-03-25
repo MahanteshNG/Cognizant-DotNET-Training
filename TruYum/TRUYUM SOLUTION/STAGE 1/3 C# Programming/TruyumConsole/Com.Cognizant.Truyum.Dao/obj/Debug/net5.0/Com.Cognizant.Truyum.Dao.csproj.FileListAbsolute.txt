@@ -1,0 +1,5 @@
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\net5.0\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\net5.0\Com.Cognizant.Truyum.Dao.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\net5.0\Com.Cognizant.Truyum.Dao.AssemblyInfoInputs.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\net5.0\Com.Cognizant.Truyum.Dao.AssemblyInfo.cs
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\net5.0\Com.Cognizant.Truyum.Dao.csproj.CoreCompileInputs.cache

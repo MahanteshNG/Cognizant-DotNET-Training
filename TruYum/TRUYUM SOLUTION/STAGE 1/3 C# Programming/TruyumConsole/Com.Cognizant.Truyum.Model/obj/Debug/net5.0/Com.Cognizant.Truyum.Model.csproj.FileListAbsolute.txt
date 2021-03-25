@@ -1,0 +1,12 @@
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\bin\Debug\net5.0\Com.Cognizant.Truyum.Model.deps.json
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\bin\Debug\net5.0\Com.Cognizant.Truyum.Model.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\bin\Debug\net5.0\ref\Com.Cognizant.Truyum.Model.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\bin\Debug\net5.0\Com.Cognizant.Truyum.Model.pdb
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.csprojAssemblyReference.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.AssemblyInfoInputs.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.AssemblyInfo.cs
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.csproj.CoreCompileInputs.cache
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\ref\Com.Cognizant.Truyum.Model.dll
+E:\CTS_TRAINING\Hands-on & Practice Check & Final Check\TRUYUM\TRUYUM SOLUTION\STAGE 1\3 C# Programming\TruyumConsole\Com.Cognizant.Truyum.Model\obj\Debug\net5.0\Com.Cognizant.Truyum.Model.pdb
